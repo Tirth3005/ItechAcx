@@ -1,0 +1,103 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055j000004ojWNAAY",
+      "createdByName": "SFDC Channel Order",
+      "createdDate": "2024-04-16T01:42:11.000Z",
+      "fileName": "email/CHANNEL_ORDERS__Guided_Experience",
+      "fullName": "CHANNEL_ORDERS__Guided_Experience",
+      "id": "00l5j000000tElGAAU",
+      "lastModifiedById": "0055j000004ojWNAAY",
+      "lastModifiedByName": "SFDC Channel Order",
+      "lastModifiedDate": "2024-04-16T01:42:11.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "CHANNEL_ORDERS",
+      "type": "EmailFolder"
+    },
+    {
+      "createdById": "0055j000004hAriAAE",
+      "createdByName": "Subhash Panchani",
+      "createdDate": "2022-02-09T14:35:17.000Z",
+      "fileName": "email/KPIapp__Partner_Marketing_Welcome_Email",
+      "fullName": "KPIapp__Partner_Marketing_Welcome_Email",
+      "id": "00l5j0000013wrdAAA",
+      "lastModifiedById": "0055j000004hAriAAE",
+      "lastModifiedByName": "Subhash Panchani",
+      "lastModifiedDate": "2022-02-09T14:35:17.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "KPIapp",
+      "type": "EmailFolder"
+    },
+    {
+      "createdById": "0055j000004hAriAAE",
+      "createdByName": "Subhash Panchani",
+      "createdDate": "2022-02-09T14:35:17.000Z",
+      "fileName": "email/KPIapp__Partner_Marketing_Email_Templates",
+      "fullName": "KPIapp__Partner_Marketing_Email_Templates",
+      "id": "00l5j0000013wrcAAA",
+      "lastModifiedById": "0055j000004hAriAAE",
+      "lastModifiedByName": "Subhash Panchani",
+      "lastModifiedDate": "2022-02-09T14:35:17.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "KPIapp",
+      "type": "EmailFolder"
+    },
+    {
+      "createdById": "0055j000004hAriAAE",
+      "createdByName": "Subhash Panchani",
+      "createdDate": "2025-06-12T09:24:47.000Z",
+      "fileName": "email/et4ae5__ExactTarget",
+      "fullName": "et4ae5__ExactTarget",
+      "id": "00lIp000000Ht0SIAS",
+      "lastModifiedById": "0055j000004hAriAAE",
+      "lastModifiedByName": "Subhash Panchani",
+      "lastModifiedDate": "2025-06-12T09:24:47.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "et4ae5",
+      "type": "EmailFolder"
+    },
+    {
+      "createdById": "0055j000004hAriAAE",
+      "createdByName": "Subhash Panchani",
+      "createdDate": "2025-05-08T05:04:33.000Z",
+      "fileName": "email/signature__Simple_Signature",
+      "fullName": "signature__Simple_Signature",
+      "id": "00lIp000000Hsj7IAC",
+      "lastModifiedById": "0055j000004hAriAAE",
+      "lastModifiedByName": "Subhash Panchani",
+      "lastModifiedDate": "2025-05-08T05:04:33.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "signature",
+      "type": "EmailFolder"
+    },
+    {
+      "createdById": "0055j000004hAriAAE",
+      "createdByName": "Subhash Panchani",
+      "createdDate": "2022-02-09T14:35:17.000Z",
+      "fileName": "email/sfcma__notifications",
+      "fullName": "sfcma__notifications",
+      "id": "00l5j0000013wrxAAA",
+      "lastModifiedById": "0055j000004hAriAAE",
+      "lastModifiedByName": "Subhash Panchani",
+      "lastModifiedDate": "2022-02-09T14:35:17.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "sfcma",
+      "type": "EmailFolder"
+    },
+    {
+      "createdById": "0055j000004hAriAAE",
+      "createdByName": "Subhash Panchani",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "unfiled$public",
+      "fullName": "unfiled$public",
+      "id": "",
+      "lastModifiedById": "0055j000004hAriAAE",
+      "lastModifiedByName": "Subhash Panchani",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "manageableState": "unmanaged",
+      "namespacePrefix": "",
+      "type": "EmailFolder"
+    }
+  ]
+}

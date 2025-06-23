@@ -1,0 +1,53 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055j000004hAriAAE",
+      "createdByName": "Subhash Panchani",
+      "createdDate": "2023-02-15T11:24:36.000Z",
+      "fileName": "connectedApps/DevOps_Center.connectedApp",
+      "fullName": "DevOps_Center",
+      "id": "09H5j000000gjHgEAI",
+      "lastModifiedById": "0055j000004hAriAAE",
+      "lastModifiedByName": "Subhash Panchani",
+      "lastModifiedDate": "2023-02-15T11:24:36.000Z",
+      "type": "ConnectedApp"
+    },
+    {
+      "createdById": "0055j000004hAriAAE",
+      "createdByName": "Subhash Panchani",
+      "createdDate": "2025-05-01T06:40:16.000Z",
+      "fileName": "connectedApps/DEVHUB_d3ijsgxe23rxnkhru05t.connectedApp",
+      "fullName": "DEVHUB_d3ijsgxe23rxnkhru05t",
+      "id": "09HIp0000008PbxMAE",
+      "lastModifiedById": "0055j000004hAriAAE",
+      "lastModifiedByName": "Subhash Panchani",
+      "lastModifiedDate": "2025-05-01T06:40:16.000Z",
+      "type": "ConnectedApp"
+    },
+    {
+      "createdById": "0055j000004hAriAAE",
+      "createdByName": "Subhash Panchani",
+      "createdDate": "2025-05-01T06:40:16.000Z",
+      "fileName": "connectedApps/HUB_anmt29nfnzyxrlde5gut.connectedApp",
+      "fullName": "HUB_anmt29nfnzyxrlde5gut",
+      "id": "09HIp0000008PbwMAE",
+      "lastModifiedById": "0055j000004hAriAAE",
+      "lastModifiedByName": "Subhash Panchani",
+      "lastModifiedDate": "2025-05-01T06:40:16.000Z",
+      "type": "ConnectedApp"
+    },
+    {
+      "createdById": "0055j000004ojWLAAY",
+      "createdByName": "iTechCloud Sales",
+      "createdDate": "2022-02-09T14:35:17.000Z",
+      "fileName": "connectedApps/PartnerTrial.connectedApp",
+      "fullName": "PartnerTrial",
+      "id": "09H5j000000xkCPEAY",
+      "lastModifiedById": "0055j000004hAriAAE",
+      "lastModifiedByName": "Subhash Panchani",
+      "lastModifiedDate": "2022-02-09T14:35:17.000Z",
+      "type": "ConnectedApp"
+    }
+  ]
+}

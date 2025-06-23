@@ -1,0 +1,18 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055j000004hAriAAE",
+      "createdByName": "Subhash Panchani",
+      "createdDate": "2024-07-30T11:07:03.000Z",
+      "fileName": "messageChannels/AnnouncementNotification.messageChannel",
+      "fullName": "AnnouncementNotification",
+      "id": "129J4000000008OIAQ",
+      "lastModifiedById": "0055j000004hAriAAE",
+      "lastModifiedByName": "Subhash Panchani",
+      "lastModifiedDate": "2024-07-30T11:07:03.000Z",
+      "manageableState": "unmanaged",
+      "type": "LightningMessageChannel"
+    }
+  ]
+}
